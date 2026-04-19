@@ -35,16 +35,27 @@ CricketLeague/
 │── Tournament.java
 
 🏏 Teams Included
+
 Lonar Sarovar Kings
+
 Vidharbh Riders
+
 Mumbai Villa
+
 Buldhana Sadan 11
+
 Malkapur NCC
+
 Deulgaon Raja 11
+
 Khamgaon Raja 11
+
 Mehakar Titans
+
 Chikhali Pentium 11
+
 Nandura Elevens
+
 ⚙️ How It Works
 Teams Initialization
 10 teams are created with 11 players each
