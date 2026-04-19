@@ -14,16 +14,13 @@ A console-based Cricket League Simulation System built in Java that models a ful
 ✅ Clean OOP-based Design
 
 🧩 Project Structure
-CricketLeagueAdvanced/
+ 📁 Project Structure
+CricketLeague/
 │── Main.java
-│
-├── model/
-│   ├── Player.java
-│   ├── Team.java
-│   ├── Match.java
-│
-├── service/
-│   ├── TournamentService.java
+│── Team.java
+│── Match.java
+│── Tournament.java
+
 🏏 Teams Included
 Lonar Sarovar Kings
 Vidharbh Riders
