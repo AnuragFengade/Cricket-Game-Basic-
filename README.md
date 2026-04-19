@@ -22,10 +22,16 @@ A console-based Cricket League Simulation System built in Java that models a ful
 
 🧩 Project Structure
  📁 Project Structure
+
 CricketLeague/
+
 │── Main.java
+
+
 │── Team.java
+
 │── Match.java
+
 │── Tournament.java
 
 🏏 Teams Included
