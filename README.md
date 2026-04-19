@@ -143,11 +143,19 @@ Modular Code Design
 
 🗄️ Database Integration (MySQL)
 
+
+
 👨‍💻 Author
 
-Anurag Fengade
+Anurag Ganesh Fengade
 
 Java Developer | Aspiring Full Stack Engineer
+
+- 💻 [GitHub]( https://github.com/AnuragFengade)
+
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
+
+
 
 ⭐ If You Like This Project
 
