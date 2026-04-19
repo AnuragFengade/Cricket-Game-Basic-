@@ -5,12 +5,19 @@ A console-based Cricket League Simulation System built in Java that models a ful
 🚀 Features
 
 ✅ 10 Custom Teams
+
 ✅ Automatic Match Simulation
+
 ✅ Random Score Generation
+
 ✅ Round-Robin League System
+
 ✅ Points Table with Sorting
+
 ✅ Semi-Finals & Final Match
+
 ✅ Champion Declaration 🏆
+
 ✅ Clean OOP-based Design
 
 🧩 Project Structure
